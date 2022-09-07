@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chatbus.github.io">
-    <img alt="chatbus" src="https://avatars.githubusercontent.com/u/110974823?s=400&v=4" width="400" />
+    <img alt="chatbus" src="https://avatars.githubusercontent.com/u/110974823?s=200&v=4" width="200" />
   </a>
 </p>
 
